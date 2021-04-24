@@ -1,0 +1,1 @@
+data class UserLoginData(val username: String, val password: String)
